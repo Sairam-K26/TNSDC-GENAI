@@ -1,6 +1,6 @@
 # Chatbot with Keras
 
-Welcome to the Chatbot with Keras repository! This project implements a simple chatbot using Keras, with TensorFlow as the backend. The chatbot is trained on predefined intents and utilizes a neural network model to generate responses.
+This project implements a simple chatbot using Keras, with TensorFlow as the backend. The chatbot is trained on predefined intents and utilizes a neural network model to generate responses.
 
 ## Overview
 
