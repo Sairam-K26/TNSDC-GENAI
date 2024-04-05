@@ -51,10 +51,3 @@ pip install -r requirements.txt
 - Scikit-learn (0.23.2)
 - Flask (1.1.2)
 
-## Note
-
-This chatbot is a simple example and may require further customization and tuning for more complex use cases. Feel free to modify the intents, add more training data, or adjust the model architecture as needed.
-
----
-
-Enjoy chatting with the Keras-powered chatbot! If you have any questions or feedback, feel free to reach out.
